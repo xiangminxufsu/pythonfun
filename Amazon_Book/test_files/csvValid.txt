@@ -1,0 +1,2 @@
+Title,Authors,Buy New,Rent,Age Range,Grade Level,Lexile Measure,Series,Paperback,Publisher,Language,ISBN-10,ISBN-13,ASIN,Product Dimensions,Shipping Weight,Hardcover,Average Customer review,Amazon Best Sellers Rank
+The Algorithm Design Manual,Steven S Skiena,$78.03,$29.70, , , , , ,Springer; 2nd edition (July 26, 2008),English,1848000693,978-1848000698, ,9.4 x 7.2 x 1.4 inches,3.2 pounds (View shipping rates and policies),730 pages,(4.4,65),#21,422 in Books

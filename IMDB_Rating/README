@@ -1,0 +1,13 @@
+Team: Xiangmin Xu
+Member: Xiangmin Xu
+
+This program includes 3 files: imdb_ratings.py, format.py, test_imdb_ratings.py. imdb_ratings.py contains a movie class parsing the input file and main function. format.py contains classes printing in different format (csv,xml,html). test_imdb_ratings.py test the condition function.
+
+According to the requirement,the episode name(if any) is added to the title, so the title could be very long...
+
+Duplicated movies are removed. The condition is that two movies are the same if they have same name. They might have different ratings,like the example below:
+
+0000001222  284673   8.1  How to Train Your Dragon (2010)
+0000001222  284673   8.2  How to Train Your Dragon (2010)
+
+Html output as source code is tested and it works,though the code looks ugly.

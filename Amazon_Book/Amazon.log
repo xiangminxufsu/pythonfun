@@ -1,0 +1,8 @@
+Thu, 24 Apr 2014 13:31:09 amazon.py        [line:426] INFO OK,program is starting
+Thu, 24 Apr 2014 13:31:09 amazon.py        [line:397] INFO directory is found, now get data from files
+Thu, 24 Apr 2014 13:31:10 amazon.py        [line:175] INFO recommend list is [u'Griftopia: A Story of Bankers, Politicians,', u'The Great Derangement: A Terrifying True Story', u'Flash Boys: A Wall Street Revolt', u'Capital in the Twenty-First Century', u'A Fighting Chance', u'Smells Like Dead Elephants: Dispatches']
+Thu, 24 Apr 2014 13:31:10 amazon.py        [line:216] INFO author Matt Taibbi is found
+Thu, 24 Apr 2014 13:31:10 amazon.py        [line:227] WARNING price not found!
+Thu, 24 Apr 2014 13:31:10 amazon.py        [line:297] INFO details is found, good
+Thu, 24 Apr 2014 13:31:10 amazon.py        [line:317] INFO reviews is found, good!
+Thu, 24 Apr 2014 13:31:10 amazon.py        [line:409] INFO output format csv is found

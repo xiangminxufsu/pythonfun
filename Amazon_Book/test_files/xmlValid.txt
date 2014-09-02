@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<Title>The Algorithm Design Manual</Title>
+		<Authors>Steven S Skiena</Authors>
+		<BuyNew>$78.03</BuyNew>
+		<Rent>$29.70</Rent>
+		<AgeRange> </AgeRange>
+		<GradeLevel> </GradeLevel>
+		<LexileMeasure> </LexileMeasure>
+		<Series> </Series>
+		<Paperback> </Paperback>
+		<Publisher>Springer; 2nd edition (July 26, 2008)</Publisher>
+		<Language>English</Language>
+		<ISBN-10>1848000693</ISBN-10>
+		<ISBN-13>978-1848000698</ISBN-13>
+		<ASIN> </ASIN>
+		<ProductDimensions>9.4 x 7.2 x 1.4 inches</ProductDimensions>
+		<ShippingWeight>3.2 pounds (View shipping rates and policies)</ShippingWeight>
+		<Hardcover>730 pages</Hardcover>
+		<AverageCustomerreview>(4.4,65)</AverageCustomerreview>
+		<AmazonBestSellersRank>#21,422 in Books</AmazonBestSellersRank>
+</document>

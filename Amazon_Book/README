@@ -1,0 +1,10 @@
+Created By: Daniel Schleuger & Xiangmin Xu
+
+Extra Credits:
+log function is used for this project, which will create a ‘Amazon.log’ file.
+“Customers who bought this also bought” is parsed.
+
+Unit test and coverage:
+All unit tests are passed and coverage is 88%
+
+This program can do every function required.
