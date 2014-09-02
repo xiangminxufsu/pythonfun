@@ -1,6 +1,5 @@
 =================================================================================================
 
-Hi! Welcome to my mini python project!
 This repo contains three interesting mini Python projects:
 
 * The first one can transfer any 'open street map' source file into a jpeg picture. 
