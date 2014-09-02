@@ -1,4 +1,4 @@
-![output.jpg](https://bitbucket.org/repo/jbXXkA/images/2888321429-output.jpg)=================================================================================================
+=================================================================================================
 
 This repo contains three interesting mini Python projects:
 
@@ -7,3 +7,7 @@ This repo contains three interesting mini Python projects:
 output interesting results into XML, HTML or CSV format. 
 * The third one can parse any Amazon book website source file and select interesting 
 information such as authors, prices, ISBN, recommendations,comments.
+
+This is one sample of the first project creating FSU Doak Campbell Stadium
+
+![output.jpg](https://bitbucket.org/repo/jbXXkA/images/3333269391-output.jpg)
